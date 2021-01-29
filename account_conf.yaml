@@ -1,0 +1,13 @@
+IND_DB:
+      'DB_HOST': 'mysql-8-01.mysql.database.azure.com'
+      'DB_USER': 'datasync@mysql-8-01'
+      'DB_PASSWD': 'xyz' 
+      'DB_PORT': 3306 
+      'DB_NAME': 'sb01mmpd'
+      
+US_DB:
+      'DB_HOST': 'mysql-8-03.mysql.database.azure.com'
+      'DB_USER': 'applogin@mysql-8-03'
+      'DB_PASSWD': 'xyz' 
+      'DB_PORT': 3306 
+      'DB_NAME': 'sb01nypd'
